@@ -5,6 +5,7 @@
 This project builds heavily on this sample project:
 
 [Azure Communication Services Group Calling Hero Sample](https://github.com/Azure-Samples/communication-services-web-calling-hero)
+
 [Family Call App](https://github.com/tomorgan/FamilyCall-ACSSampleAsAzStaticApp)
 
 It takes the above sample, and makes it work with Azure Static Web Apps. It does this by implementing the back-end part (to get access keys etc) as API calls using Azure Functions, which are now [built right into Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/add-api).
